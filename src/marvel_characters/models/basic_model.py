@@ -209,3 +209,4 @@ class BasicModel:
             version=latest_version,
         )
         return latest_version
+
